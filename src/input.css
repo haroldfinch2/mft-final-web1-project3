@@ -1,0 +1,18 @@
+@font-face{
+    font-family: "associate";
+    src: url("/fonts/AssociateSansRegular.otf") format('opentype');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+ul>li{
+    background-color: transparent !important; 
+}
+
+ul>li:hover{
+    background-color: transparent !important;
+
+}
